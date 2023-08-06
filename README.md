@@ -1,4 +1,5 @@
 # 🔑 USBreacher
+## Release 1.1
 Custom remote control USB RubberDucky
 
 # 📜 Description
